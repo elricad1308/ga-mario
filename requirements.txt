@@ -1,0 +1,5 @@
+setuptools
+gym
+ppaquette-gym-super-mario
+numpy
+matplotlib
