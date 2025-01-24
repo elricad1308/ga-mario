@@ -1,5 +1,7 @@
-setuptools
-gym
-ppaquette-gym-super-mario
-numpy
-matplotlib
+setuptools==65.5.0
+wheel==0.38.0
+numpy<2.0.0
+importlib-metadata<5.0.0
+gym==0.21.0
+gym-super-mario-bros
+nes-py
