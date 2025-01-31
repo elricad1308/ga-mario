@@ -1,7 +1,20 @@
+# In order to work, Python 3.7 is required
+
+# Package management tools
 setuptools==65.5.0
 wheel==0.38.0
+
+# Numerical operations
 numpy<2.0.0
+
+# Importlib metadata
 importlib-metadata<5.0.0
+
+# Gym library version 0.21.0 for 4-item tuple in env.step()
 gym==0.21.0
+
+# Super Mario Bros environment for Gym
 gym-super-mario-bros
+
+# NES emulator for Gym
 nes-py
